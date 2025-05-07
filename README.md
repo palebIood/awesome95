@@ -1,7 +1,8 @@
 # awesome95
 My retro Win95 inspired theme for AwesomeWM and dotfiles for Alacritty.
 
--- OTHER STUFF --
+##-- OTHER STUFF --
+
 For the Alacritty theme (mostly color schemes from what i understand) i use chicago95 from: https://github.com/alacritty/alacritty-theme
 For the terminal font i used LessPerfectVGA font from the Chicago95 theme at: https://github.com/grassmunk/Chicago95
 For the GTK theme, i also used the one provided by Chicago95.
