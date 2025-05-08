@@ -21,7 +21,6 @@ For the UI font i used Inconsolata, which is part of google fonts. https://githu
 A lot. Mostly for lain widgets, i dont remember almost any of them right out of the tip of my tongue but uhh you need amixer and alsamixer for the volume one, nmtui for the wifi one, playerctl for the spotify tracker one, acpi for battery and lm_sensors for temp. Im probably missing some.  
 This theme uses Alacritty as default terminal, so you need that.  
 This theme uses Inconsolata, from google fonts, so you need that.  
-This theme uses Picom, from google fonts, so you need that.  
-
+This theme uses Picom.
 ## -- SPECIAL THANKS -- 
 To Epsi's AwesomeWM theme guide, it was thanks to that guide that i made this theme and all of its LUA files from scratch! I learned a lot. https://epsi-rns.github.io/desktop/2019/06/15/awesome-overview.html
