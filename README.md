@@ -12,7 +12,7 @@ Yeah, i dont know how to include images here, but you will find them in the main
 
 For the Alacritty theme (mostly color schemes from what i understand) i use chicago95 from: https://github.com/alacritty/alacritty-theme. Follow the instructions there.  
 The ASCII art for neofetch is custom made, i will provide you my neofetch config file and ascii art file here.  
-For the terminal font i used LessPerfectVGA font from the Chicago95 theme at: https://github.com/grassmunk/Chicago95  
+For the terminal font i used LessPerfectDOSVGA font from the Chicago95 theme at: https://github.com/grassmunk/Chicago95  
 For the GTK theme, i also used the one provided by Chicago95.  
 For Icon theme i use classic95, but the modified ones at: https://github.com/quadpixels/classic95  
 For the UI font i used Inconsolata, which is part of google fonts. https://github.com/google/fonts. Ask chatGPT how to install it on your distro, at least on Arch its with AUR ttf-google-fonts-git  
@@ -21,7 +21,6 @@ For the UI font i used Inconsolata, which is part of google fonts. https://githu
 A lot. Mostly for lain widgets, i dont remember almost any of them right out of the tip of my tongue but uhh you need amixer and alsamixer for the volume one, nmtui for the wifi one, playerctl for the spotify tracker one, acpi for battery and lm_sensors for temp. Im probably missing some.  
 This theme uses Alacritty as default terminal, so you need that.  
 This theme uses Inconsolata, from google fonts, so you need that.  
-This theme uses Picom, from google fonts, so you need that.  
-
+This theme uses Picom.
 ## -- SPECIAL THANKS -- 
 To Epsi's AwesomeWM theme guide, it was thanks to that guide that i made this theme and all of its LUA files from scratch! I learned a lot. https://epsi-rns.github.io/desktop/2019/06/15/awesome-overview.html
