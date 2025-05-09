@@ -6,7 +6,9 @@ Im new to this whole sharing dotfiles and configs stuff so yeah, im just uploadi
 Please have in mind i made this for myself, it might not (probably wont) work out of the box for you and you might need to tweak stuff and download dependencies. I wasnt planning on sharing this, but since reddit folks asked for dotfiles, i will provide them. In any case, i cant stress this enough, CHatGPT is your friend lmao, it helped me build this from scratch and it will help you get it running on your system.  
 ## -- SCREENSHOTS --
   
-Yeah, i dont know how to include images here, but you will find them in the main directory of the repo.  
+![image](https://github.com/user-attachments/assets/c9d42aa3-8ef0-4c06-b579-fb0e06be1f89)
+![image](https://github.com/user-attachments/assets/d255e689-a78e-405b-a456-68dfdfa79a8a)
+![image](https://github.com/user-attachments/assets/efdce690-2eeb-4da0-993f-17b2b00e2858)
 
 ## -- OTHER STUFF --
 
