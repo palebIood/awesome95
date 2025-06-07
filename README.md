@@ -23,15 +23,15 @@ For the UI font i used Inconsolata, which is part of google fonts. https://githu
 
 ## -- DEPENDENCIES --
 
-playerctl
-lm_sensors
-nmtui
-nmcli
-amixer
-acpi
-alsamixer
-picom
-Inconsolata (Font found in Google Fonts pack)
+playerctl  
+lm_sensors  
+nmtui  
+nmcli  
+amixer  
+acpi  
+alsamixer  
+picom  
+Inconsolata (Font found in Google Fonts pack)  
 
 ## -- SPECIAL THANKS --
 
