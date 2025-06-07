@@ -25,8 +25,7 @@ For the UI font i used Inconsolata, which is part of google fonts. https://githu
 
 playerctl  
 lm_sensors  
-nmtui  
-nmcli    
+networkmanager      
 acpi  
 alsa-utils  
 picom  
