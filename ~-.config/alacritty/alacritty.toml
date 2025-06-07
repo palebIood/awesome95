@@ -1,0 +1,28 @@
+
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/chicago95.toml"
+]
+
+[font]
+size = 8.0
+
+[font.bold]
+family = "Less Perfect DOS VGA"
+style = "Bold"
+
+[font.bold_italic]
+family = "Less Perfect DOS VGA"
+style = "Bold Italic"
+
+[font.italic]
+family = "Less Perfect DOS VGA"
+style = "Italic"
+
+[font.normal]
+family = "Less Perfect DOS VGA"
+style = "Regular"
+
+[window]
+opacity = 0.8
+padding = { x = 5, y = 5 }
